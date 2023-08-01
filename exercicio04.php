@@ -63,6 +63,8 @@
 <body>
     <h1>Exercício 04 - Loop e Array</h1>
     
+    <h2>Oi Zimbo, olha que código legal!</h2>
+
     <?php 
 
         $linguagens = [
